@@ -229,13 +229,13 @@ const showCards = () => {
 <div id="${data.id}" class="carousel slide">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="/Assets/${data.img}/Unknown-5" class="d-block w-100" alt="...">
+                        <img src="Assets/${data.img}/Unknown-5" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="/Assets/${data.img}/Unknown-6" class="d-block w-100" alt="...">
+                        <img src="Assets/${data.img}/Unknown-6" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="/Assets/${data.img}/Unknown-7" class="d-block w-100" alt="...">
+                        <img src="Assets/${data.img}/Unknown-7" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#${data.id}"
